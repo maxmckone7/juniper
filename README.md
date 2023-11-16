@@ -51,6 +51,7 @@ local development environment and the unit/integration tests.
 #### IDE Setup
 In IntelliJ, File -> New -> Protject from Existing Sources.  When importing the project, make sure it's set as a gradle project  
 ![image](https://github.com/broadinstitute/juniper/assets/2800795/dd2cf363-f761-47bc-9620-28e47a20feff)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmaxmckone7%2Fjuniper.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmaxmckone7%2Fjuniper?ref=badge_shield)
 
 
 * **Server:**
@@ -162,3 +163,7 @@ Then go to `sandbox.ourhealth.localhost:3001`
 #### Adding environment variables
   Helm charts:
   https://github.com/broadinstitute/terra-helmfile/tree/master/values/app/d2p/live
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmaxmckone7%2Fjuniper.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmaxmckone7%2Fjuniper?ref=badge_large)
